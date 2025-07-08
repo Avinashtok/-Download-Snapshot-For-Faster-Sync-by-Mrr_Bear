@@ -1,14 +1,14 @@
-#Download-Snapshot-For-Faster-Sync-by-Mrr_Bear
+  #Download-Snapshot-For-Faster-Sync-by-Mrr_Bear (Avinash Kumar)
 📈 Download Snapshot For Faster Sync 🚀
 
 ⚕️ This Snapshot will help u to sync Faster & it will start from Block -- 3514016
 
 🛠️ Installation Instructions
 
-🔴 Stop The Node & Delete flow db
+1.🔴 Stop The Node & Delete flow db
 
     sudo systemctl stop zgs 
-🧹 Delete existing flow_db
+2.🧹 Delete existing flow_db
 
     rm -rf $HOME/0g-storage-node/run/db/flow_db
 
@@ -24,16 +24,19 @@
 5. ✅ Restart the Node
 
        sudo systemctl restart zgs
+
+
 🔍 Managing Logs
-   Check Node Status
+   
+☑️Check Node Status
         
     sudo systemctl status zgs
 
-🔍View Logs
+![Snapshot Step](./Screenshot%202025-07-08%20072158.png)
+
+👁️🔍View Logs
 
     tail -f ~/0g-storage-node/run/log/zgs.log.$(TZ=UTC date +%Y-%m-%d)
-
-![Snapshot Step](./Screenshot%202025-07-08%20072158.png)
 
 
     
@@ -48,12 +51,16 @@
       sleep 5; \
     done
 
+ ![Alt Text](./images/Screenshot%202025-07-08%20072343.png)
+
 
 
 ---
 
-### ✅ 📬 Need Help?
-Telegram: @Mrr_Bear
+### ✅ 📬 Need any Help?
+Telegram id : @Mrr_Bear
+Name - Avinash kumar 
+Age - Tujhe Usse kya Mje kr 😈 
 
 
 
