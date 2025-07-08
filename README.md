@@ -33,6 +33,9 @@
 
     tail -f ~/0g-storage-node/run/log/zgs.log.$(TZ=UTC date +%Y-%m-%d)
 
+    ![Snapshot Step](./Screenshot%202025-07-08%20072158.png)
+
+
     
 🧪 Monitor Sync Progress
 
