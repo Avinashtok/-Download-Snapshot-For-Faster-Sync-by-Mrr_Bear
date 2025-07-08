@@ -21,7 +21,7 @@
        tar -xzvf $HOME/0g-storage-node/run/db/flow_db.tar.gz -C $HOME/0g-storage-node/run/db/
    
 
-5. ✅ Restart the Node
+5. 🔄 Restart the Node
 
        sudo systemctl restart zgs
 
