@@ -51,7 +51,8 @@
       sleep 5; \
     done
 
-![Sync Status](./images/Screenshot-2025-07-08-072343.png)
+![Alt Text](https://github.com/YourUsername/YourRepoName/assets/YourFileID.png)
+
 
 
 
