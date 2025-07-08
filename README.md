@@ -51,7 +51,8 @@
       sleep 5; \
     done
 
- ![Alt Text](./images/Screenshot 2025-07-08 072343.png)
+![Sync Status](./images/Screenshot-2025-07-08-072343.png)
+
 
 
 
