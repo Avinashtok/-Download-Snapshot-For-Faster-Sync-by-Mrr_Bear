@@ -51,7 +51,7 @@
       sleep 5; \
     done
 
- ![Alt Text](./images/Screenshot%202025-07-08%20072343.png)
+ ![Alt Text](./images/Screenshot 2025-07-08 072343.png)
 
 
 
