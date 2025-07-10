@@ -1,7 +1,7 @@
   #Download-Snapshot-For-Faster-Sync
 📈 Download Snapshot For Faster Sync 🚀-by-Mrr_Bear (Avinash Kumar)
 
-⚕️ This Snapshot will help u to sync Faster & it will start from Block -- 3514016
+⚕️ This Snapshot will help u to sync Faster & it will start from Block -- 3562700
 
 🛠️ Installation Instructions
 
